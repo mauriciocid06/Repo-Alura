@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ``` npm install ract ```
+
+Sistema de registro 2
